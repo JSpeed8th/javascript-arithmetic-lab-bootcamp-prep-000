@@ -23,8 +23,7 @@ function makeInt(n) {
   return n
 }
 function preserveDecimal(n) {
-  parseFloat(n)
-  return n
+  return parseFloat(n)
 }
 function makeInt(n) {
   (n, 10)
