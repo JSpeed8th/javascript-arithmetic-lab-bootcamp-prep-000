@@ -12,4 +12,4 @@ function divide(a,b) {
 }
 var inc
    n++
-   return n
+   n
